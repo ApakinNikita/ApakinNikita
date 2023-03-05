@@ -15,8 +15,19 @@ pandas/numpy/stats + визуализация через seaborn/matplotlib
 
 https://t.me/nikitosar
 
+
+
+
 🛠️ Languages and Tools :
-Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL EXCEL GIT API Airflow
+
+![image](https://user-images.githubusercontent.com/123862701/222955831-ab064fa7-d6c1-4184-931a-fe50dae33cc9.png)![image](https://user-images.githubusercontent.com/123862701/222955866-24439249-2c03-49a1-a56e-1ada44a1eb9f.png)![image](https://user-images.githubusercontent.com/123862701/222955878-adf9685d-aaf8-4c63-bb52-86c821263ff4.png)![image](https://user-images.githubusercontent.com/123862701/222955928-6f769373-9171-4c88-8448-3c343af70bbd.png)![image](https://user-images.githubusercontent.com/123862701/222955935-12229ffa-f999-4ff3-97b6-f75fe6374b78.png)![image](https://user-images.githubusercontent.com/123862701/222955944-3b0908c2-0a36-4153-b3c8-803a068925b1.png)![image](https://user-images.githubusercontent.com/123862701/222956037-5ebacd1d-e8ab-4bf6-b806-406413b5aa1d.png)![image](https://user-images.githubusercontent.com/123862701/222956280-d4e88f2e-19ea-4b29-818c-5663de3aa84a.png)
+
+
+
+
+
+
+
 
 **Обучение**
 
